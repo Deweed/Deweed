@@ -7,7 +7,7 @@ de informática pelo IFSEMG - RP e atualmente estou cursando Sistemas de Informa
 Paiva BH. Sou fluente em inglês e estou aprendendo japonês, tenho curso em liderança, robótica
 e robótica com física aplicada.
 
-Entrando no domínio de programação :computer:, durante o Técnico realizei projetos com Python para
+Entrando no domínio de programação, durante o Técnico realizei projetos com Python para
 criação de softwares e domínio de redes; criei sites, como uma loja virtual em PHP com MySQL/MySQLi
 e Javascript programado manualmente e posteriormente utilizando o WordPress; criei softwares em Java
 utilizando o Swing e o FX; atualmente estou utilizando C mais profundamente, antes tinha apenas um
