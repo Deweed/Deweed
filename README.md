@@ -1,3 +1,10 @@
+-----
+
+<div>
+<img align="center" alt="Header" src="./img/banner.png"/>
+</div>
+
+-----
 
 **Eu me chamo Gabriel** :wave:
 ```
@@ -15,8 +22,9 @@ utilizando o Swing e o FX; atualmente estou utilizando C mais profundamente, ant
 conhecimento básico em C para programação de Arduinos.
 ```
 
-
+<div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deweed&label=Profile%20views&color=0e75b6&style=flat" alt="deweed" /> </p>
+</div>
 
 </br>
 </br>
