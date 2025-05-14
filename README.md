@@ -1,10 +1,3 @@
------
-
-<div>
-<img align="center" alt="Header" src="./img/banner.png"/>
-</div>
-
------
 
 **Eu me chamo Gabriel** :wave:
 ```
