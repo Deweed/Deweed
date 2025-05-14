@@ -1,3 +1,8 @@
+-----
+
+
+
+-----
 
 **Eu me chamo Gabriel** :wave:
 ```
@@ -19,6 +24,8 @@ conhecimento básico em C para programação de Arduinos.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deweed&label=Profile%20views&color=0e75b6&style=flat" alt="deweed" /> </p>
 </div>
 
+-----
+
 </br>
 </br>
 </br>
@@ -32,6 +39,9 @@ conhecimento básico em C para programação de Arduinos.
 </br>
 </br>
 
+-----
+</br>
+</br>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -62,10 +72,43 @@ conhecimento básico em C para programação de Arduinos.
 </p>
 </br>
 </br>
-</br>
 
-![](https://github-readme-stats.vercel.app/api?username=deweed&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deweed&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+-----
+
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deweed&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deweed&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deweed&theme=github_dark"/>
+</td>
+</tr>
+<tr>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deweed&theme=github_dark&utcOffset=8"/>
+</td>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deweed&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=Deweed&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr>
+</table>
+</details>
+</div>
+
+-----
 </br>
 </br>
 </br>
@@ -76,8 +119,8 @@ conhecimento básico em C para programação de Arduinos.
 </br>
 </br>
 </br>
-<img src='https://codermemes.vercel.app/#1' style="height: 400px;"/>
 
+-----
 
                                                                            
                                                                            
