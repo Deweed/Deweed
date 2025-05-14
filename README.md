@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="./img/banner.png"/>
+<img align="center" alt="Banner" src="./img/banner.png"/>
 </div>
 
 -----
