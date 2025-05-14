@@ -1,3 +1,4 @@
+
 **Eu me chamo Gabriel** :wave:
 ```
 Tenho afinidade em informática/ t.i e inglês. Trabalho muito bem em equipe, sob pressão,
@@ -76,19 +77,6 @@ conhecimento básico em C para programação de Arduinos.
 </br>
 <img src='https://codermemes.vercel.app/#1' style="height: 400px;"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--
-**Deweed/Deweed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                                           
+                                                                           
