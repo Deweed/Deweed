@@ -32,11 +32,37 @@ conhecimento básico em C para programação de Arduinos.
 </br>
 </br>
 
+<!--
 <p align="left">
 <a href="https://linkedin.com/in/gab-eugenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gab-eugenio" height="30" width="40" /></a>
 <a href="https://discord.gg/deweedg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="deweedg" height="30" width="40" /></a>
 </p>
+-->
 
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
+<td><a href="https://github.com/Deweed" target="_blank"><img src="https://Deweed.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:biel.eugenio001@gmail.com" target="_blank"><img src="https://Deweed.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/553298454982" target="_blank"><img src="https://Deweed.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.instagram.com/bielleugenio/" target="_blank"><img src="https://Deweed.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/gab-eugenio/" target="_blank"><img src="https://Deweed.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://discordapp.com/deweedg" target="_blank"><img src="https://Deweed.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+</table>
+ 
 </br>
 </br>
 </br>
